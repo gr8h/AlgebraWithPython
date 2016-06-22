@@ -1,4 +1,4 @@
-# Project Title
+# Linear Algebra with Python
 
 Linear algebra functions implemented in python.
 
